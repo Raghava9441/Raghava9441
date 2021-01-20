@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Raghava
-#### Development
+#### Developer
 ![Development](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 I'm Raghava from India, and I do Development. I really enjoy learning languages and frameworks like React and React Native. I also enjoy developing websites,and design in general.
